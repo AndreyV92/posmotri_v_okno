@@ -269,8 +269,6 @@ ol {
   text-decoration: underline;
 }
 
-
-
 .button:focus {
   outline: 3px double #fff;
 }
