@@ -51,14 +51,13 @@ ol {
   justify-content: center;
   max-width: 1140px;
   gap: 30px;
-  padding: 133px 30px;
   margin: auto;
 }
 
 .result {
   display: flex;
   flex-direction: column;
-  margin-bottom: 5px;
+  margin-bottom: 2px;
 }
 
 .result__video-container {
@@ -125,7 +124,7 @@ ol {
   outline: 1px solid #fff;
 }
 
-.search-form__label > .search-form__label-text:hover {
+.search-form__label:hover {
   text-decoration: underline;
 }
 
